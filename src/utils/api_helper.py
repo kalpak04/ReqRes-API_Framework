@@ -1,5 +1,5 @@
 import requests
-from src.configs.config import Config
+from src.configs.configs_api import Config
 from src.utils.logger import Logger
 
 class APIHelper:

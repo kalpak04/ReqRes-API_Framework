@@ -1,0 +1,5 @@
+2024-10-21 16:57:25,151 - INFO - Making GET request to: https://reqres.in/api/users
+2024-10-21 16:57:25,638 - INFO - Response Status Code: 200
+2024-10-21 16:57:25,644 - INFO - Making POST request to: https://reqres.in/api/users
+2024-10-21 16:57:25,644 - INFO - Request Payload: {'name': 'morpheus', 'job': 'leader'}
+2024-10-21 16:57:26,412 - INFO - Response Status Code: 201

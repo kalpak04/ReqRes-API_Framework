@@ -1,10 +1,11 @@
 import pytest
 from src.constants.api_constants import APIConstants
+from src.utils.api_helper import APIHelper 
 
 class TestUsers:
     @pytest.fixture(autouse=True)
-    def setup(self, api_helper):
-        self.api_helper = api_helper
+    def setup(self):
+        self.api_helper = APIHelper()
         self.constants = APIConstants
     
     def test_list_users(self):
