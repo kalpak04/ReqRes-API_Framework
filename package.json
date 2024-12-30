@@ -1,0 +1,19 @@
+{
+  "name": "reqres-api-framework",
+  "version": "1.0.0",
+  "description": "framework for reqres api framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalpak04/ReqRes-API_Framework.git"
+  },
+  "author": "Kalpak Pimpale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalpak04/ReqRes-API_Framework/issues"
+  },
+  "homepage": "https://github.com/kalpak04/ReqRes-API_Framework#readme"
+}
