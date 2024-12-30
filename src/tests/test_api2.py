@@ -17,4 +17,5 @@ def test_api():
 output = test_api()
 
 assert "first_name" in output == "Kalpak"
+assert "last_name" in output == "Pimpale"
 
